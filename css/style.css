@@ -1,0 +1,55 @@
+html{
+	background-color: #000;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #FFF;
+	max-width: 1140px;
+	height: 100%;
+	margin: 0 auto;
+}
+h1{
+	text-align: center;
+	text-decoration: underline;
+	margin-top: 0;
+}
+.opquast{
+	color: red;
+	text-decoration: underline;
+}
+#content{
+
+	margin: 0 auto;
+	width: 80%;
+	display: inline-block;
+	text-align: center;	
+}
+h3{
+	text-align: center;
+	color: darkblue;
+}
+h4{
+	color: red;
+}
+ol{
+	height: 100%;
+	display: block;
+	margin: 0;
+	background-color: #EEE;
+	border: 1px solid;
+	border-radius: 15px;
+	width: 37.5%;
+}
+.left{
+	display: row;
+	float: left;
+	margin-bottom: 5px;
+}
+.right{
+	display: row;
+	float: right;
+	margin-bottom: 5px;
+}
